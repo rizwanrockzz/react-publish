@@ -13,7 +13,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React = Rizwan</h1>
+      <h1><span className='vite'>Vite</span> + <span className='react' >React</span> = Rizwan</h1>
     </>
   )
 }
